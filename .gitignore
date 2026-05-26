@@ -12,3 +12,4 @@ wheels/
 app.log
 .zed
 .ropeproject
+**/db.sqlite3
